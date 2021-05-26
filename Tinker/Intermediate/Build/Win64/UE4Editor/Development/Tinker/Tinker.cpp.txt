@@ -1,0 +1,2 @@
+C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\Definitions.Tinker.h
+c:\users\james\documents\github\ue4-sandbox\tinker\source\tinker\Tinker.h

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Tinker.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\TinkerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\Tinker.cpp.obj"
+"C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\TinkerGameModeBase.cpp.obj"
+"C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\Tinker.init.gen.cpp.obj"
+"C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\TinkerGameModeBase.gen.cpp.obj"
+"C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\Default.rc2.res"
+/OUT:"C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\UE4Editor-Tinker.lib"
+/INCLUDE:IMPLEMENT_MODULE_Tinker

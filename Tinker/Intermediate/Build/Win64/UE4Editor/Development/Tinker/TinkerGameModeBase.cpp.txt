@@ -1,0 +1,7 @@
+C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Development\Tinker\Definitions.Tinker.h
+c:\users\james\documents\github\ue4-sandbox\tinker\source\tinker\TinkerGameModeBase.h
+G:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+G:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+G:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+G:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\James\Documents\GitHub\UE4-Sandbox\Tinker\Intermediate\Build\Win64\UE4Editor\Inc\Tinker\TinkerGameModeBase.generated.h
