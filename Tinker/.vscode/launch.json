@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Tinker (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Tinker Win64 Debug Build",
+			"program": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Tinker (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Tinker Win64 DebugGame Build",
+			"program": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Tinker (Development)",
+			"request": "launch",
+			"preLaunchTask": "Tinker Win64 Development Build",
+			"program": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Tinker (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Tinker Win64 Shipping Build",
+			"program": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Tinker (Test)",
+			"request": "launch",
+			"preLaunchTask": "Tinker Win64 Test Build",
+			"program": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TinkerEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TinkerEditor Win64 Debug Build",
+			"program": "G:\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Tinker.uproject"
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TinkerEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TinkerEditor Win64 DebugGame Build",
+			"program": "G:\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Tinker.uproject"
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TinkerEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "TinkerEditor Win64 Development Build",
+			"program": "G:\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Tinker.uproject"
+			],
+			"cwd": "G:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "G:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "G:\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Tinker.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "G:\\UE_4.26"
+		}
+	]
+}
