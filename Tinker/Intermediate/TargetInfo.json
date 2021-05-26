@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tinker",
+			"Path": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Source\\Tinker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TinkerEditor",
+			"Path": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\Tinker\\Source\\TinkerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
