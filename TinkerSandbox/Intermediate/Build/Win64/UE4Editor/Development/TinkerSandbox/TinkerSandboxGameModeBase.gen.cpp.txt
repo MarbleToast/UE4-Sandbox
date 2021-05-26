@@ -1,0 +1,9 @@
+C:\Users\James\Documents\GitHub\UE4-Sandbox\TinkerSandbox\Intermediate\Build\Win64\UE4Editor\Development\TinkerSandbox\Definitions.TinkerSandbox.h
+G:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+G:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\James\Documents\GitHub\UE4-Sandbox\TinkerSandbox\Source\TinkerSandbox/TinkerSandboxGameModeBase.h
+G:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+G:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+G:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+G:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\james\documents\github\ue4-sandbox\tinkersandbox\intermediate\build\win64\ue4editor\inc\tinkersandbox\TinkerSandboxGameModeBase.generated.h

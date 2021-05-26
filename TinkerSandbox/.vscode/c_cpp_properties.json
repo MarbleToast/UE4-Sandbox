@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "TinkerSandboxEditor Editor Win64 Development (TinkerSandbox)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\TinkerSandbox\\.vscode\\compileCommands_TinkerSandbox.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

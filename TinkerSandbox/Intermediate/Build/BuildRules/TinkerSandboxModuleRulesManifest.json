@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\TinkerSandbox\\Source\\TinkerSandbox\\TinkerSandbox.Build.cs",
+		"C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\TinkerSandbox\\Source\\TinkerSandbox.Target.cs",
+		"C:\\Users\\James\\Documents\\GitHub\\UE4-Sandbox\\TinkerSandbox\\Source\\TinkerSandboxEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}
