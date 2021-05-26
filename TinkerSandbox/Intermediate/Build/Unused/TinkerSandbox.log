@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\James\Documents\GitHub\UE4-Sandbox).
+  Invalidating makefile for TinkerSandboxEditor (FPCharacter.cpp modified)
+  Building TinkerSandboxEditor...
+  Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] FPCharacter.cpp
+    [2/4] UE4Editor-TinkerSandbox-0014.lib
+       Creating library C:\Users\James\Documents\GitHub\UE4-Sandbox\TinkerSandbox\Intermediate\Build\Win64\UE4Editor\Development\TinkerSandbox\UE4Editor-TinkerSandbox-0014.lib and object C:\Users\James\Documents\GitHub\UE4-Sandbox\TinkerSandbox\Intermediate\Build\Win64\UE4Editor\Development\TinkerSandbox\UE4Editor-TinkerSandbox-0014.exp
+    [3/4] UE4Editor-TinkerSandbox-0014.dll
+       Creating library C:\Users\James\Documents\GitHub\UE4-Sandbox\TinkerSandbox\Intermediate\Build\Win64\UE4Editor\Development\TinkerSandbox\UE4Editor-TinkerSandbox-0014.suppressed.lib and object C:\Users\James\Documents\GitHub\UE4-Sandbox\TinkerSandbox\Intermediate\Build\Win64\UE4Editor\Development\TinkerSandbox\UE4Editor-TinkerSandbox-0014.suppressed.exp
+    [4/4] TinkerSandboxEditor.target
+  Total time in Parallel executor: 2.63 seconds
+  Total execution time: 5.48 seconds

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TinkerSandbox.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F4691E55-2C7E-419A-B2F3-18B12DE9A750}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TinkerSandbox.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TinkerSandboxEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\TinkerSandbox.code-workspace" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{AABA26A6-EBC4-469C-8611-ADD9B88229D6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TinkerSandbox">
+      <UniqueIdentifier>{EEF8AC22-A27D-4254-8A55-90B5FE0CEC89}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TinkerSandbox\Balloon.cpp">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TinkerSandbox\Balloon.h">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TinkerSandbox\FPCharacter.cpp">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TinkerSandbox\FPCharacter.h">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TinkerSandbox\TinkerSandbox.Build.cs">
+      <Filter>Source\TinkerSandbox</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TinkerSandbox\TinkerSandbox.cpp">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TinkerSandbox\TinkerSandbox.h">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TinkerSandbox\TinkerSandboxGameModeBase.cpp">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TinkerSandbox\TinkerSandboxGameModeBase.h">
+      <Filter>Source\TinkerSandbox</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

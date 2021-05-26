@@ -36,7 +36,7 @@ public: \
 
 #define TinkerSandbox_Source_TinkerSandbox_TinkerSandboxGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API ATinkerSandboxGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API ATinkerSandboxGameModeBase(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATinkerSandboxGameModeBase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ATinkerSandboxGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATinkerSandboxGameModeBase); \
@@ -48,8 +48,6 @@ public:
 
 
 #define TinkerSandbox_Source_TinkerSandbox_TinkerSandboxGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API ATinkerSandboxGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ATinkerSandboxGameModeBase(ATinkerSandboxGameModeBase&&); \
@@ -57,7 +55,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ATinkerSandboxGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATinkerSandboxGameModeBase); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATinkerSandboxGameModeBase)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ATinkerSandboxGameModeBase)
 
 
 #define TinkerSandbox_Source_TinkerSandbox_TinkerSandboxGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET

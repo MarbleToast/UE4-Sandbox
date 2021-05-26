@@ -6,4 +6,4 @@ G:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 G:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 G:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 G:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\users\james\documents\github\ue4-sandbox\tinkersandbox\intermediate\build\win64\ue4editor\inc\tinkersandbox\TinkerSandboxGameModeBase.generated.h
+C:\Users\James\Documents\GitHub\UE4-Sandbox\TinkerSandbox\Intermediate\Build\Win64\UE4Editor\Inc\TinkerSandbox\TinkerSandboxGameModeBase.generated.h

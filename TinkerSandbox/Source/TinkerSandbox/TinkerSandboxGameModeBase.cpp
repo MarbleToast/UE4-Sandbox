@@ -2,4 +2,8 @@
 
 
 #include "TinkerSandboxGameModeBase.h"
+#include "FPCharacter.h"
 
+ATinkerSandboxGameModeBase::ATinkerSandboxGameModeBase() {
+	DefaultPawnClass = AFPCharacter::StaticClass();
+}

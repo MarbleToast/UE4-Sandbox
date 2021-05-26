@@ -13,5 +13,5 @@ UCLASS()
 class TINKERSANDBOX_API ATinkerSandboxGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+	ATinkerSandboxGameModeBase();
 };
