@@ -1065,3 +1065,112 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-11.40.00:039][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2021.05.26-11.40.00:039][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.05.26-11.54.47:452][249]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.26-12.53.11:522][222]LogSlate: Window 'Source Control Login' being destroyed
+[2021.05.26-12.53.21:800][367]SourceControl: fatal: G:/UE_4.26/Engine/Content: 'G:/UE_4.26/Engine/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'G:/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'G:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'G:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'G:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'G:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'G:/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'G:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'G:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'G:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'G:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'G:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'G:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'G:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'G:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'G:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'G:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'G:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'G:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'G:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.21:801][367]SourceControl: fatal: G:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'G:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/James/Documents/GitHub/UE4-Sandbox'
+[2021.05.26-12.53.34:706][367]LogSlate: Window 'Submit Files' being destroyed
+[2021.05.26-12.53.34:935][367]SourceControl: Error: fatal: pathspec 'C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Tinker.uproject' did not match any files
+[2021.05.26-12.53.35:158][367]SourceControl: Error: error: pathspec 'C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Tinker.uproject' did not match any file(s) known to git
+[2021.05.26-12.53.37:286][578]LogSlate: Took 0.013847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.26-12.53.42:118][156]LogSlate: Window 'Message Log' being destroyed
+[2021.05.26-12.53.42:125][156]LogSlate: Window 'Message Log' being destroyed
+[2021.05.26-12.53.49:118][974]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-12.53.49:195][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-12.53.49:242][974]PIE: New page: PIE session: Minimal_Default (26 May 2021, 14:53:49)
+[2021.05.26-12.53.49:273][974]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.26-12.53.49:286][974]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.26-12.53.49:300][974]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.26-12.53.49:370][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060148s)
+[2021.05.26-12.53.49:386][974]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.26-12.53.49:413][974]LogPlayLevel: PIE: World Init took: (0.043693s)
+[2021.05.26-12.53.49:418][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.117721s)
+[2021.05.26-12.53.49:455][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.05.26-12.53.49:476][974]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-12.53.49:477][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-12.53.49:477][974]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-12.53.49:477][974]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-12.53.49:484][974]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-12.53.49:484][974]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-12.53.49:854][974]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.26-12.53.49:854][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-12.53.49:854][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-12.53.49:854][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-12.53.49:855][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-12.53.49:855][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-12.53.49:855][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-12.53.49:879][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-12.53.49:879][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-12.53.49:879][974]LogInit: FAudioDevice initialized.
+[2021.05.26-12.53.49:879][974]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2021.05.26-12.53.49:918][974]LogLoad: Game class is 'GameModeBase'
+[2021.05.26-12.53.50:040][974]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.26-13.53.50
+[2021.05.26-12.53.50:060][974]LogWorld: Bringing up level for play took: 0.009016
+[2021.05.26-12.53.50:067][974]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.05.26-12.53.50:222][974]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.05.26-12.53.50:301][974]PIE: Server logged in
+[2021.05.26-12.53.50:317][974]PIE: Play in editor total start time 1.183 seconds.
+[2021.05.26-12.53.57:727][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-12.53.57:727][826]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.26-12.53.57:743][826]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-12.53.57:744][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-12.53.57:821][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-12.53.57:823][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-12.53.57:835][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-12.53.57:835][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-12.53.57:836][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-12.53.57:865][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-12.53.57:885][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.05.26-12.53.57:911][827]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.05.26-12.54.19:793][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.26-12.54.39:129][472]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.26-12.54.39:224][472]LogSlate: Took 0.001711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.26-12.54.51:042][814]Running G:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Tinker.uproject" -game -rocket -progress
+[2021.05.26-12.54.51:556][814]ERROR: Unhandled exception: System.Exception: Unable to find project file based on argument C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Tinker.uproject
+[2021.05.26-12.54.51:556][814]          at UnrealBuildTool.GenerateProjectFilesMode.TryParseProjectFileArgument(CommandLineArguments Arguments, FileReference& ProjectFile) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 263
+[2021.05.26-12.54.51:556][814]          at UnrealBuildTool.GenerateProjectFilesMode.Execute(CommandLineArguments Arguments) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 72
+[2021.05.26-12.54.51:556][814]          at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 550
+[2021.05.26-12.55.02:067][814]LogSlate: Window 'Message' being destroyed
+[2021.05.26-12.55.02:077][814]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'FloatingActor', however you must recompile the 'Tinker' module before it will appear in the Content Browser. Failed to generate project files.
+
+Would you like to open the Output Log to see more details?
+[2021.05.26-12.55.02:128][814]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.05.26-12.55.12:679][ 13]LogSlate: Window 'Output Log' being destroyed
+[2021.05.26-12.55.12:685][ 13]LogSlate: Window 'Output Log' being destroyed
+[2021.05.26-12.55.14:622][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.05.26-12.55.14:672][215]LogSavePackage: Moving 'C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Saved/Minimal_Default561E81304418CFCD76BE20A3C79A0637.tmp' to 'C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.26-12.55.14:877][215]LogSavePackage: Moving 'C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Saved/Minimal_Default_BuiltDataAE1D2EA948FD6F97BF161B8D6C040795.tmp' to 'C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.05.26-12.55.14:887][215]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-12.55.14:887][215]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.05.26-12.55.14:887][215]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.26-12.55.19:143][665]Running G:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Tinker.uproject" -game -rocket -progress
+[2021.05.26-12.55.19:556][665]ERROR: Unhandled exception: System.Exception: Unable to find project file based on argument C:/Users/James/Documents/GitHub/UE4-Sandbox/Tinker/Tinker.uproject
+[2021.05.26-12.55.19:556][665]          at UnrealBuildTool.GenerateProjectFilesMode.TryParseProjectFileArgument(CommandLineArguments Arguments, FileReference& ProjectFile) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 263
+[2021.05.26-12.55.19:556][665]          at UnrealBuildTool.GenerateProjectFilesMode.Execute(CommandLineArguments Arguments) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 72
+[2021.05.26-12.55.19:556][665]          at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 550
+[2021.05.26-12.55.25:941][665]LogSlate: Window 'Refresh Project' being destroyed
